@@ -1,6 +1,7 @@
+<img width="100%" src="https://png.pngtree.com/thumb_back/fw800/background/20210605/pngtree-ethical-hacking-matrix-technological-background-vector-image_725998.jpg">
 <h1 align="center">Hi 👋, I'm Eman salahuddin</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h>
-<img  align="center" widht="400px" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/homew_2_still_2x.gif?compress=1&resize=400x300">
+<img  width="70%" align="center"src="https://t4.ftcdn.net/jpg/04/40/03/73/360_F_440037301_xI59ve0rg2gtWdLY8KT93gqJsbfDivcV.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eman-devs&label=Profile%20views&color=0e75b6&style=flat" alt="eman-devs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eman-devs" alt="eman-devs" /></a> </p>
